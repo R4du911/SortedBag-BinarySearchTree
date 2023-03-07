@@ -1,6 +1,6 @@
 # SortedBag-BinarySearchTree
 
-Implementation of basic functions of SortedBag Collection using Binary Search Tree.
+Implementation of basic functions of SortedBag ADT using Binary Search Tree.
 
 What I learnt from this project:
 - Collections library
